@@ -1,4 +1,4 @@
 # Cinematic-Insights
-The Classwork of CPSC362
+## The Classwork of CPSC362
 
 
