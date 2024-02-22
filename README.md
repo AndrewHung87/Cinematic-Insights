@@ -9,4 +9,3 @@ The Classwork of CPSC362
 - **Watchlist & History**: Track and save movies.<br>
 - **Interactive Rating System**: Rate movies on various criteria.<br>
 
-
